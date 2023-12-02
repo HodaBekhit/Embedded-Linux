@@ -1,0 +1,2 @@
+QUESTION 2)
+the binary_search can be executed from any working directory,because i have moved the binary_search executable file to "/usr/local/bin" dirctory which is in the "PATH" variable, which allows the shell to locate and execute the binary_search file without specifying the full path.
