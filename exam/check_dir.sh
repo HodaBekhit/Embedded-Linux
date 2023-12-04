@@ -6,7 +6,7 @@ if [ -d /home/hodaahmed/exam_directory ]
 then
 echo "exam_directory is present"
 
-if  [  -f ~/docs/*. ] 
+if  [  -f ~/exam_directory/*. ] 
 then 
 echo "files present"
 cd /home/hodaahmed/exam_directory 
