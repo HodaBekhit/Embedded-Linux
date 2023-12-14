@@ -5,7 +5,7 @@ groupname="Bekhit"
 # Create the user and group
 sudo useradd -m $username
 sudo groupadd $groupname
-sudo usermod -aG $groupname $username  # Corrected command to add user to group
+sudo usermod -aG $groupname $username  
 
 # Check if user exists
 if id "$username" >/dev/null 2>&1; then
