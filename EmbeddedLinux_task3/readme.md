@@ -22,4 +22,4 @@
 
   ![image-20231224133524660](/home/hodaahmed/.config/Typora/typora-user-images/image-20231224133524660.png)
 
-as shown in the above image the arm cortexa9 contains the following binutilities (ls , ldd, objdump, strip, strings, nm, size, gcc, ar, as, gdp , and others )
+as shown in the above image the arm cortexa9 contains the following binutilities (ls , ldd, objdump, strip, strings, nm, size, gcc, ar, as, gdp , and others ).
