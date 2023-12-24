@@ -1,6 +1,6 @@
 # Task3:
 
-![image-20231224133054172](/home/hodaahmed/.config/Typora/typora-user-images/image-20231224133054172.png)
+![image-20231224133054172](/home/hodaahmed/Embedded-Linux/EmbeddedLinux_task3/readme.assets/image-20231224133054172.png)
 
 ## Sysroot:
 
