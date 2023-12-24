@@ -1,6 +1,6 @@
 # Task3:
 
-![image-20231224133054172](/home/hodaahmed/Embedded-Linux/EmbeddedLinux_task3/readme.assets/image-20231224133054172.png)
+<img src="/home/hodaahmed/Embedded-Linux/EmbeddedLinux_task3/readme.assets/image-20231224133054172.png" alt="image-20231224133054172" />
 
 ## Sysroot:
 
