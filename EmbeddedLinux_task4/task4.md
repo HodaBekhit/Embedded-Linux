@@ -10,6 +10,8 @@ your AVR development board.
 
 1- Compile all source files (including the application) into object files
 
+![Screenshot from 2024-01-04 22-37-27](https://github.com/HodaBekhit/Embedded-Linux/assets/151033711/5ba29700-1872-4162-b3ce-f9a49639926d)
+
 2-Create a static library (libmcal.a) from the object files and Clean up temporary object files
 
 3-Compile the application with libmcal.a
