@@ -21,8 +21,7 @@
 
    3- Apply the following configurations 
 
-    ![Screenshot from 2024-01-08 15-27-13](https://github.com/HodaBekhit/Embedded-Linux/assets/151033711/aba17c30-a843-4df3-99ab-b0a9675e12c4)
-
+  ![Screenshot from 2024-01-08 15-27-13](https://github.com/HodaBekhit/Embedded-Linux/assets/151033711/db67308e-e8bf-43b3-b117-93cdfc3bfb72)
 
    | Device  | primary / extended | bootable | type  | size |
    | ------- | ------------------ | -------- | ----- | ---- |
