@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/calculator_exec.dir/main.c.o -o calculator_exec  -Wl,-rpath,/home/hodaahmed/Calc_project/DynamicLink/build libcalculator_lib.so 

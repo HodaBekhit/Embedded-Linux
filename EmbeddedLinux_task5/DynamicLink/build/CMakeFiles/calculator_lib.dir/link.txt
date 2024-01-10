@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libcalculator_lib.so -o libcalculator_lib.so CMakeFiles/calculator_lib.dir/Sources/add.c.o CMakeFiles/calculator_lib.dir/Sources/sub.c.o CMakeFiles/calculator_lib.dir/Sources/mult.c.o CMakeFiles/calculator_lib.dir/Sources/div.c.o CMakeFiles/calculator_lib.dir/Sources/mod.c.o 

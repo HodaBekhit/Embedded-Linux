@@ -1,0 +1,4 @@
+/home/hodaahmed/Calc_project/StaticLink/build/CMakeFiles/calculator_lib.dir
+/home/hodaahmed/Calc_project/StaticLink/build/CMakeFiles/calculator_exec.dir
+/home/hodaahmed/Calc_project/StaticLink/build/CMakeFiles/edit_cache.dir
+/home/hodaahmed/Calc_project/StaticLink/build/CMakeFiles/rebuild_cache.dir
