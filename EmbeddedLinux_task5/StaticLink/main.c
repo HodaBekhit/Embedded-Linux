@@ -5,7 +5,8 @@
 #include "./Includes/div.h"
 #include "./Includes/mod.h"
 
-int main() {
+int main()
+ {
     int operation, num1, num2, result;
     
     printf("Enter two numbers: ");
